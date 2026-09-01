@@ -1,5 +1,5 @@
 
-*My home assignmen*
+*My home assignment*
 *Algorithm of finding even and odd numbers*
 **Start** the program.
 **Input** the integer number from user.
